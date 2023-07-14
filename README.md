@@ -29,7 +29,9 @@ Excel &amp; SQL Practices For Data Science
 >- Data Analysis helps organizations improve their product and services to enhance customer satisfaction. The process of Data Analysis involves collecting and organizing big data to extract useful information, as it helps in making critical decisions to prosper in business, With the advent of technology, Data Analysis discovers key parameters, predicts patterns and trends, which leads to business productivity. It also adds value to business processes, as it assists in understanding the meaning behind numbers and figures by presenting an in-depth analysis.
 
 <hr>
+
 ## Types of Data Analysis
+
 ### Data Analysis requires systematically evaluating parameters through various processes. To summarize, Data Analysis can be of four different types:
 
 - Statistical Analysis
@@ -39,5 +41,26 @@ Excel &amp; SQL Practices For Data Science
 - Predictive Analysis
   
 - Prescriptive Analysis
+
   
+##  1. Statistical Analysis
+
+> Statistical analysis helps in describing and comparing data to uncover trends and patterns. Statistical analysis includes descriptive and inferential analysis to identify measures of central tendency and decipher inferences to get key performance indicators.
+
+## 2. Diagnostic Analysis
+
+> The Diagnostic analysis aims to identify the root cause of a business problem, as it involves finding positive and negative impacts of decisions taken previously. With Diagnostic analysis, organizations find the ground reality of divergence from statistical analysis.
+
+## 3. Predictive Analysis
+
+> Predictive analysis assists in having a prior understanding of events likely to occur by estimating trends from historical data. For instance, if a company wants to identify potential risk in business initiatives, Predictive analysis catalyzes the organization to align with the desired business goals.
+
+## 4. Prescriptive Analysis
+
+> The Prescriptive analysis combines insights from the above three analyses to formulate a plan of action for the organization. With Prescriptive analysis, organizations can address the possible issues with ML models that are trained with prior knowledge of strategies.
+
+
+
+
+
 
