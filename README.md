@@ -81,3 +81,4 @@ The primary purpose of Data Analysis is to gather information, process, and deri
 <img src="https://learnsql.com/blog/learn-sql-data-analyst/who-is-a-data-scientist.png" alt="Hello world">
 
 
+
