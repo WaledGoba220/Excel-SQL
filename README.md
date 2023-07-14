@@ -25,3 +25,6 @@ Excel &amp; SQL Practices For Data Science
 >- This data-driven approach has enabled the industry to channel its growth by analyzing meaningful information to make critical business decisions. Data Analysis has played a vital role in identifying trends and patterns as organizations forecast their business goals by extracting their historical data in databases. And,
 
 >- This article provides you with a comprehensive overview of the importance of SQL for Data Analysis. It also explains the types of Data Analysis and the potential of SQL queries with databases, along with the limitations it possesses.
+>- Data Analysis helps organizations improve their product and services to enhance customer satisfaction. The process of Data Analysis involves collecting and organizing big data to extract useful information, as it helps in making critical decisions to prosper in business, With the advent of technology, Data Analysis discovers key parameters, predicts patterns and trends, which leads to business productivity. It also adds value to business processes, as it assists in understanding the meaning behind numbers and figures by presenting an in-depth analysis.
+
+
