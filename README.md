@@ -31,8 +31,13 @@ Excel &amp; SQL Practices For Data Science
 <hr>
 ## Types of Data Analysis
 ### Data Analysis requires systematically evaluating parameters through various processes. To summarize, Data Analysis can be of four different types:
+
 - Statistical Analysis
+  
 - Diagnostic Analysis
+  
 - Predictive Analysis
+  
 - Prescriptive Analysis
+  
 
