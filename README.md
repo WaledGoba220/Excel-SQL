@@ -12,4 +12,5 @@ Excel &amp; SQL Practices For Data Science
 >- Data Analysis
 >- Data Communication
 
-<img src="https://www.lucidchart.com/techblog/2023/03/14/data-analytics-the-quick-explanation/" alt="Hello world">
+<img src="![image](https://github.com/WaledGoba220/Excel-SQL/assets/96909644/5e4548eb-2298-4d8b-aae3-2200b27d8a9a)
+" alt="Hello world">
