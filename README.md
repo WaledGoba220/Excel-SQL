@@ -12,5 +12,4 @@ Excel &amp; SQL Practices For Data Science
 >- Data Analysis
 >- Data Communication
 
-<img src="![image](https://github.com/WaledGoba220/Excel-SQL/assets/96909644/5e4548eb-2298-4d8b-aae3-2200b27d8a9a)
-" alt="Hello world">
+<img src="https://cdn-www.oktopost.com/blog/wp-content/uploads/2020/11/Paymill-Data-Marketing.png" alt="Hello world">
