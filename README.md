@@ -13,3 +13,5 @@ Excel &amp; SQL Practices For Data Science
 >- Data Communication
 
 <img src="https://cdn-www.oktopost.com/blog/wp-content/uploads/2020/11/Paymill-Data-Marketing.png" alt="Hello world">
+
+## SQL 
