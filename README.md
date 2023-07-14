@@ -60,7 +60,19 @@ Excel &amp; SQL Practices For Data Science
 > The Prescriptive analysis combines insights from the above three analyses to formulate a plan of action for the organization. With Prescriptive analysis, organizations can address the possible issues with ML models that are trained with prior knowledge of strategies.
 
 
+Different tools Used to Perform Data Analysis
+The primary purpose of Data Analysis is to gather information, process, and derive insights to come with possible business solutions. Data Analysis with software tools have helped speed up this process, and few powerful tools are as below:
 
+1. Python: It is the most widely used general-purpose programming language bundled with huge libraries like pandas, NumPy, and several others, helping in Data Analysis.
 
+2. R: It is the most prominent programming language for Data Analysis that has dominated the market with powerful statistical tools.
 
+3. SAS: Primarily used by big IT companies, Statistical Analysis System (SAS) has helped in performing complex Statistical analysis and generating Reports.
+
+4. SQL: It is the standard programming language used to communicate with Relational databases. SQL  for Data Analysis is designed to facilitate the retrieval of specific information through simple queries from a database
+
+## Benefits of SQL for Data Analysis
+- SQL for Data Analysis is easy to understand and learn, thereby making it a user-friendly language.
+- SQL for Data Analysis is efficient at fast query processing and helps in retrieving big data from multiple databases efficiently.
+- SQL  for Data Analysis supports exceptional handling as it provides standard documentation to users.
 
