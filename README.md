@@ -11,3 +11,5 @@ Excel &amp; SQL Practices For Data Science
 >- Data Cleaning
 >- Data Analysis
 >- Data Communication
+
+<img src="https://www.lucidchart.com/techblog/2023/03/14/data-analytics-the-quick-explanation/" alt="Hello world">
