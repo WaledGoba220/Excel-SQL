@@ -76,10 +76,10 @@ The primary purpose of Data Analysis is to gather information, process, and deri
 - SQL for Data Analysis is efficient at fast query processing and helps in retrieving big data from multiple databases efficiently.
 - SQL  for Data Analysis supports exceptional handling as it provides standard documentation to users.
 
-
 <img src="https://miro.medium.com/v2/resize:fit:1400/1*4h7ahFBqnaFHeWibHWOl7w.png" alt="Hello world">
 <br>
 <img src="https://learnsql.com/blog/learn-sql-data-analyst/who-is-a-data-scientist.png" alt="Hello world">
+
 
 
 
